@@ -1,0 +1,10 @@
+[
+    {
+        "codigo": "CAF001",
+        "nombre": "Café de Colombia",
+        "categoria": "Café en grano",
+        "costo": 180.0,
+        "precio": 350.0,
+        "stock": 87
+    }
+]

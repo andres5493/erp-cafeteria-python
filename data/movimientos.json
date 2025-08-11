@@ -1,0 +1,9 @@
+[
+    {
+        "codigo_producto": "CAF001",
+        "tipo": "ingreso",
+        "cantidad": 67,
+        "proveedor": "pepe",
+        "fecha": "2025-08-11 19:48:53"
+    }
+]
